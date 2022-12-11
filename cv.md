@@ -13,14 +13,15 @@ From March 2017 to October 2021 I worked as a car sales specialist at JSC Minsk 
 * JavaScript (Basic)
 * Git
 ## Code Example
-```
-function multiply(a, b){
-  return a * b
-}
 
+```
+function multiply(a, b) {
+    return a * b
+}
 let total = multiply(2, 3)
 console.log(total)
 ```
+
 ## Experience
 #### JSC Minsk Lada (March 2017 - October 2021)
 Full cycle of interaction with clients, execution of a sale and purchase transaction with individuals and legal entities, teamwork, work with 1C, Bitrix24.
